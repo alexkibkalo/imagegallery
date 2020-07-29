@@ -1,4 +1,16 @@
-# Project exclude paths
-/.gradle/
-/build/
-/build/classes/java/main/
+target/
+*.iml
+.project
+.classpath
+.settings/
+dependency-reduced-pom.xml
+log/
+src/main/resources/META-INF/
+vi-soft-ng-local-resources/
+.gradle/
+gradle
+build
+.idea
+/gradlew.bat
+/gradlew
+lib

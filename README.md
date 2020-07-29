@@ -10,6 +10,6 @@ Image gallery Search Back-End Engineer
 ### Getting started guide:
   1. Create jar `gradle clean build`
   2. Create new database `imagegallery` from any public schemas
-  3. Server url http://localhost:8080
+  3. Server url http://localhost:8080/interview.agileengine.com/auth
   4. Swagger http://localhost:8080/swagger-ui.html
  
